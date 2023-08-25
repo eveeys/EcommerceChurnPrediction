@@ -1,4 +1,3 @@
-![image](https://github.com/eveeys/EcommerceChurnPrediction/assets/113023460/0a76aab1-dbaa-4bbc-b68e-2ba39485ade1)# Ecommerce Churn Prediction
 ## Business Context
 Pada 20 tahun terakhir, perdagangan dalam bentuk e-commerce berkembang dengan pesat sehingga banyak e-commerce bermunculan. E-commerce mulai berlomba-lomba untuk memberikan fitur dan inovasi untuk menarik pelanggan. Persaingan yang ketat terjadi di mana pelanggan dapat berhenti dari satu platform e-commerce ke platform lain dengan mudah. **Customer churn** adalah peristiwa ketika **pelanggan perusahaan berhenti berlanggaanan/tidak membeli** dari perusahaan lagi setelah jangka waktu tertentu.
 
